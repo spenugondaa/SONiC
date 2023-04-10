@@ -26,7 +26,7 @@
   "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=250300&view=results",
  "diff": "https://github.com/Azure/sonic-buildimage/compare/e32624d362a08f07b7a83a025a3d196d8235a604...4ff784a48929d10ffa11a3e57cfdc313ba281eb3",
   "build": "250300",
-  "date": ""
+  "date": "2023-04-10T08:00:40.2816018Z"
  },
 "sonic-innovium.bin": {
   "url": "",
