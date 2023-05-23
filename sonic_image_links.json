@@ -82,7 +82,7 @@
   "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=279024&view=results",
  "diff": "https://github.com/Azure/sonic-buildimage/compare/c5f2a0eac3fc430346bc725d88ef3ac51abf2e7b...ba6aba2b9287859f46ec1eef836f359934afdca9",
   "build": "279024",
-  "date": "2023-05-23T08:00:35.2944164Z"
+  "date": ""
  },
 "sonic-nephos.bin": {
   "url": "",
