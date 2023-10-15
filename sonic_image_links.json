@@ -364,11 +364,11 @@
   "date": "2023-10-14T08:00:20.1409379Z"
  },
 "sonic-nephos.bin": {
-  "url": "https://artprodcus3.artifacts.visualstudio.com/Af91412a5-a906-4990-9d7c-f697b81fc04d/be1b070f-be15-4154-aade-b1d3bfb17054/_apis/artifact/cGlwZWxpbmVhcnRpZmFjdDovL21zc29uaWMvcHJvamVjdElkL2JlMWIwNzBmLWJlMTUtNDE1NC1hYWRlLWIxZDNiZmIxNzA1NC9idWlsZElkLzM4NjUxMy9hcnRpZmFjdE5hbWUvc29uaWMtYnVpbGRpbWFnZS5uZXBob3M1/content?format=file&subpath=/target/sonic-nephos.bin",
-  "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=386513&view=results",
- "diff": "https://github.com/Azure/sonic-buildimage/compare/3b0fb656cabc29f837ca4f280b15d46d5a1a5e40...1ff84b22733d65536974a128f4eca931caaaa064",
-  "build": "386513",
-  "date": "2023-10-14T08:00:20.2034415Z"
+  "url": "https://artprodcus3.artifacts.visualstudio.com/Af91412a5-a906-4990-9d7c-f697b81fc04d/be1b070f-be15-4154-aade-b1d3bfb17054/_apis/artifact/cGlwZWxpbmVhcnRpZmFjdDovL21zc29uaWMvcHJvamVjdElkL2JlMWIwNzBmLWJlMTUtNDE1NC1hYWRlLWIxZDNiZmIxNzA1NC9idWlsZElkLzM4NzE0OC9hcnRpZmFjdE5hbWUvc29uaWMtYnVpbGRpbWFnZS5uZXBob3M1/content?format=file&subpath=/target/sonic-nephos.bin",
+  "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=387148&view=results",
+ "diff": "https://github.com/Azure/sonic-buildimage/compare/1ff84b22733d65536974a128f4eca931caaaa064...8c9e2ea10f57d5c74d982901c30ad43b7035246b",
+  "build": "387148",
+  "date": "2023-10-15T08:00:10.7920884Z"
  }
 },
 "201911": {
