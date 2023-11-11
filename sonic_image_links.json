@@ -26,7 +26,7 @@
   "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=407386&view=results",
  "diff": "https://github.com/Azure/sonic-buildimage/compare/4da5099919805b9fff8c4640fd011d79bbcfab66...04b30fc3789424cc92bb4732f0a079cf462f39a2",
   "build": "407386",
-  "date": ""
+  "date": "2023-11-10T08:00:50.9093254Z"
  },
 "sonic-innovium.bin": {
   "url": "https://artprodcus3.artifacts.visualstudio.com/Af91412a5-a906-4990-9d7c-f697b81fc04d/be1b070f-be15-4154-aade-b1d3bfb17054/_apis/artifact/cGlwZWxpbmVhcnRpZmFjdDovL21zc29uaWMvcHJvamVjdElkL2JlMWIwNzBmLWJlMTUtNDE1NC1hYWRlLWIxZDNiZmIxNzA1NC9idWlsZElkLzM3MTI5Ni9hcnRpZmFjdE5hbWUvc29uaWMtYnVpbGRpbWFnZS5pbm5vdml1bQ2/content?format=file&subpath=/target/sonic-innovium.bin",
