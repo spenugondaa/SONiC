@@ -15,11 +15,11 @@
   "date": "2024-03-27T08:00:30.2744215Z"
  },
 "sonic-mellanox.bin": {
-  "url": "https://artprodcus3.artifacts.visualstudio.com/Af91412a5-a906-4990-9d7c-f697b81fc04d/be1b070f-be15-4154-aade-b1d3bfb17054/_apis/artifact/cGlwZWxpbmVhcnRpZmFjdDovL21zc29uaWMvcHJvamVjdElkL2JlMWIwNzBmLWJlMTUtNDE1NC1hYWRlLWIxZDNiZmIxNzA1NC9idWlsZElkLzUwODc3Ni9hcnRpZmFjdE5hbWUvc29uaWMtYnVpbGRpbWFnZS5tZWxsYW5veA2/content?format=file&subpath=/target/sonic-mellanox.bin",
-  "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=508776&view=results",
- "diff": "https://github.com/Azure/sonic-buildimage/compare/fb29a4047c77d25538ad438aa39816b291589fd1...39392419464911e038214387bb878183c70c76e3",
-  "build": "508776",
-  "date": "2024-03-27T08:00:30.493177Z"
+  "url": "https://artprodcus3.artifacts.visualstudio.com/Af91412a5-a906-4990-9d7c-f697b81fc04d/be1b070f-be15-4154-aade-b1d3bfb17054/_apis/artifact/cGlwZWxpbmVhcnRpZmFjdDovL21zc29uaWMvcHJvamVjdElkL2JlMWIwNzBmLWJlMTUtNDE1NC1hYWRlLWIxZDNiZmIxNzA1NC9idWlsZElkLzUwOTU2My9hcnRpZmFjdE5hbWUvc29uaWMtYnVpbGRpbWFnZS5tZWxsYW5veA2/content?format=file&subpath=/target/sonic-mellanox.bin",
+  "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=509563&view=results",
+ "diff": "https://github.com/Azure/sonic-buildimage/compare/39392419464911e038214387bb878183c70c76e3...17d728ec7a9291c10ae41d0f8a3c2b4bbd5f2f58",
+  "build": "509563",
+  "date": "2024-03-28T08:00:43.6600874Z"
  },
 "sonic-vs.img.gz": {
   "url": "https://artprodcus3.artifacts.visualstudio.com/Af91412a5-a906-4990-9d7c-f697b81fc04d/be1b070f-be15-4154-aade-b1d3bfb17054/_apis/artifact/cGlwZWxpbmVhcnRpZmFjdDovL21zc29uaWMvcHJvamVjdElkL2JlMWIwNzBmLWJlMTUtNDE1NC1hYWRlLWIxZDNiZmIxNzA1NC9idWlsZElkLzUwODc3NS9hcnRpZmFjdE5hbWUvc29uaWMtYnVpbGRpbWFnZS52cw2/content?format=file&subpath=/target/sonic-vs.img.gz",
@@ -50,11 +50,11 @@
   "date": "2023-09-25T08:00:26.4368094Z"
  },
 "sonic-centec.bin": {
-  "url": "https://artprodcus3.artifacts.visualstudio.com/Af91412a5-a906-4990-9d7c-f697b81fc04d/be1b070f-be15-4154-aade-b1d3bfb17054/_apis/artifact/cGlwZWxpbmVhcnRpZmFjdDovL21zc29uaWMvcHJvamVjdElkL2JlMWIwNzBmLWJlMTUtNDE1NC1hYWRlLWIxZDNiZmIxNzA1NC9idWlsZElkLzUwODc3Ny9hcnRpZmFjdE5hbWUvc29uaWMtYnVpbGRpbWFnZS5jZW50ZWM1/content?format=file&subpath=/target/sonic-centec.bin",
-  "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=508777&view=results",
- "diff": "https://github.com/Azure/sonic-buildimage/compare/fb29a4047c77d25538ad438aa39816b291589fd1...39392419464911e038214387bb878183c70c76e3",
-  "build": "508777",
-  "date": "2024-03-27T08:00:30.4021469Z"
+  "url": "https://artprodcus3.artifacts.visualstudio.com/Af91412a5-a906-4990-9d7c-f697b81fc04d/be1b070f-be15-4154-aade-b1d3bfb17054/_apis/artifact/cGlwZWxpbmVhcnRpZmFjdDovL21zc29uaWMvcHJvamVjdElkL2JlMWIwNzBmLWJlMTUtNDE1NC1hYWRlLWIxZDNiZmIxNzA1NC9idWlsZElkLzUwOTU2Ni9hcnRpZmFjdE5hbWUvc29uaWMtYnVpbGRpbWFnZS5jZW50ZWM1/content?format=file&subpath=/target/sonic-centec.bin",
+  "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=509566&view=results",
+ "diff": "https://github.com/Azure/sonic-buildimage/compare/39392419464911e038214387bb878183c70c76e3...17d728ec7a9291c10ae41d0f8a3c2b4bbd5f2f58",
+  "build": "509566",
+  "date": "2024-03-28T08:00:50.3126944Z"
  },
 "sonic-centec-arm64.bin": {
   "url": "https://artprodcus3.artifacts.visualstudio.com/Af91412a5-a906-4990-9d7c-f697b81fc04d/be1b070f-be15-4154-aade-b1d3bfb17054/_apis/artifact/cGlwZWxpbmVhcnRpZmFjdDovL21zc29uaWMvcHJvamVjdElkL2JlMWIwNzBmLWJlMTUtNDE1NC1hYWRlLWIxZDNiZmIxNzA1NC9idWlsZElkLzUwODc3My9hcnRpZmFjdE5hbWUvc29uaWMtYnVpbGRpbWFnZS5jZW50ZWMtYXJtNjQ1/content?format=file&subpath=/target/sonic-centec-arm64.bin",
@@ -136,18 +136,18 @@
   "date": "2023-12-13T08:00:20.1302821Z"
  },
 "sonic-barefoot.bin": {
-  "url": "https://artprodcus3.artifacts.visualstudio.com/Af91412a5-a906-4990-9d7c-f697b81fc04d/be1b070f-be15-4154-aade-b1d3bfb17054/_apis/artifact/cGlwZWxpbmVhcnRpZmFjdDovL21zc29uaWMvcHJvamVjdElkL2JlMWIwNzBmLWJlMTUtNDE1NC1hYWRlLWIxZDNiZmIxNzA1NC9idWlsZElkLzUwODczNS9hcnRpZmFjdE5hbWUvc29uaWMtYnVpbGRpbWFnZS5iYXJlZm9vdA2/content?format=file&subpath=/target/sonic-barefoot.bin",
-  "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=508735&view=results",
+  "url": "https://artprodcus3.artifacts.visualstudio.com/Af91412a5-a906-4990-9d7c-f697b81fc04d/be1b070f-be15-4154-aade-b1d3bfb17054/_apis/artifact/cGlwZWxpbmVhcnRpZmFjdDovL21zc29uaWMvcHJvamVjdElkL2JlMWIwNzBmLWJlMTUtNDE1NC1hYWRlLWIxZDNiZmIxNzA1NC9idWlsZElkLzUwOTUxNC9hcnRpZmFjdE5hbWUvc29uaWMtYnVpbGRpbWFnZS5iYXJlZm9vdA2/content?format=file&subpath=/target/sonic-barefoot.bin",
+  "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=509514&view=results",
  "diff": "https://github.com/Azure/sonic-buildimage/compare/4570365762089357d5eff6ff579c56327f5f7103...4570365762089357d5eff6ff579c56327f5f7103",
-  "build": "508735",
-  "date": "2024-03-27T08:00:13.5083137Z"
+  "build": "509514",
+  "date": "2024-03-28T08:00:28.3163159Z"
  },
 "sonic-centec.bin": {
-  "url": "https://artprodcus3.artifacts.visualstudio.com/Af91412a5-a906-4990-9d7c-f697b81fc04d/be1b070f-be15-4154-aade-b1d3bfb17054/_apis/artifact/cGlwZWxpbmVhcnRpZmFjdDovL21zc29uaWMvcHJvamVjdElkL2JlMWIwNzBmLWJlMTUtNDE1NC1hYWRlLWIxZDNiZmIxNzA1NC9idWlsZElkLzUwODczMC9hcnRpZmFjdE5hbWUvc29uaWMtYnVpbGRpbWFnZS5jZW50ZWM1/content?format=file&subpath=/target/sonic-centec.bin",
-  "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=508730&view=results",
+  "url": "https://artprodcus3.artifacts.visualstudio.com/Af91412a5-a906-4990-9d7c-f697b81fc04d/be1b070f-be15-4154-aade-b1d3bfb17054/_apis/artifact/cGlwZWxpbmVhcnRpZmFjdDovL21zc29uaWMvcHJvamVjdElkL2JlMWIwNzBmLWJlMTUtNDE1NC1hYWRlLWIxZDNiZmIxNzA1NC9idWlsZElkLzUwOTUzOC9hcnRpZmFjdE5hbWUvc29uaWMtYnVpbGRpbWFnZS5jZW50ZWM1/content?format=file&subpath=/target/sonic-centec.bin",
+  "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=509538&view=results",
  "diff": "https://github.com/Azure/sonic-buildimage/compare/4570365762089357d5eff6ff579c56327f5f7103...4570365762089357d5eff6ff579c56327f5f7103",
-  "build": "508730",
-  "date": "2024-03-27T08:00:10.7304722Z"
+  "build": "509538",
+  "date": "2024-03-28T08:00:35.9216092Z"
  },
 "sonic-centec-arm64.bin": {
   "url": "https://artprodcus3.artifacts.visualstudio.com/Af91412a5-a906-4990-9d7c-f697b81fc04d/be1b070f-be15-4154-aade-b1d3bfb17054/_apis/artifact/cGlwZWxpbmVhcnRpZmFjdDovL21zc29uaWMvcHJvamVjdElkL2JlMWIwNzBmLWJlMTUtNDE1NC1hYWRlLWIxZDNiZmIxNzA1NC9idWlsZElkLzUwODczMS9hcnRpZmFjdE5hbWUvc29uaWMtYnVpbGRpbWFnZS5jZW50ZWMtYXJtNjQ1/content?format=file&subpath=/target/sonic-centec-arm64.bin",
