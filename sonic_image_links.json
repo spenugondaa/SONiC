@@ -29,14 +29,14 @@
   "date": "2024-10-14T08:00:23.8851988Z"
  },
 "sonic-innovium.bin": {
-  "url": "",
+  "url": "https://artprodcus3.artifacts.visualstudio.com/Af91412a5-a906-4990-9d7c-f697b81fc04d/be1b070f-be15-4154-aade-b1d3bfb17054/_apis/artifact/cGlwZWxpbmVhcnRpZmFjdDovL21zc29uaWMvcHJvamVjdElkL2JlMWIwNzBmLWJlMTUtNDE1NC1hYWRlLWIxZDNiZmIxNzA1NC9idWlsZElkLzY2ODE2OS9hcnRpZmFjdE5hbWUvc29uaWMtYnVpbGRpbWFnZS5pbm5vdml1bQ2/content?format=file&subpath=/target/sonic-innovium.bin",
   "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=668169&view=results",
  "diff": "https://github.com/Azure/sonic-buildimage/compare/2618b66caf37dcb14c1b7ae08cdac6c475c8812f...262b1d21dbb943e86ca5a92a1d36bfe9c9ce8793",
   "build": "668169",
   "date": "2024-10-14T08:00:02.6268727Z"
  },
 "sonic-innovium-dbg.bin": {
-  "url": "",
+  "url": "https://artprodcus3.artifacts.visualstudio.com/Af91412a5-a906-4990-9d7c-f697b81fc04d/be1b070f-be15-4154-aade-b1d3bfb17054/_apis/artifact/cGlwZWxpbmVhcnRpZmFjdDovL21zc29uaWMvcHJvamVjdElkL2JlMWIwNzBmLWJlMTUtNDE1NC1hYWRlLWIxZDNiZmIxNzA1NC9idWlsZElkLzY2ODE2OS9hcnRpZmFjdE5hbWUvc29uaWMtYnVpbGRpbWFnZS5pbm5vdml1bQ2/content?format=file&subpath=/target/sonic-innovium-dbg.bin",
   "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=668169&view=results",
  "diff": "https://github.com/Azure/sonic-buildimage/compare/2618b66caf37dcb14c1b7ae08cdac6c475c8812f...262b1d21dbb943e86ca5a92a1d36bfe9c9ce8793",
   "build": "668169",
